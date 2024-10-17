@@ -19,7 +19,7 @@
     <version.groovy-eclipse-batch>2.4.3-01</version.groovy-eclipse-batch>
     <version.junit>4.12</version.junit>
     <version.spock>1.0-groovy-2.4</version.spock>
-    <version.groovy>2.4.7</version.groovy>
+    <version.groovy>2.4.21</version.groovy>
     <version.powermock>1.6.6</version.powermock>
   </properties>
 
